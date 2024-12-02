@@ -26,7 +26,7 @@ func main() {
 	data_array := strings.Split(str_data, "\n")
 
 	// Print input for tshoot purposes
-	fmt.Println(str_data)
+	//fmt.Println(str_data)
 
 	// Declare slices for storing each column in the input
 	var first_array []int
